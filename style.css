@@ -1,0 +1,38 @@
+body{
+  background-color: #744744;
+  font-family: monospace;
+}
+
+h1{
+  margin-top: 90px;
+  text-align: center;
+  color: #255255
+}
+p {
+  color: grey;
+  text-align: center;
+}
+
+.sitat{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.headline{
+  font-style: italic;
+  margin-top: 50px;
+}
+
+.bilde {
+  width: 800px;
+  border-radius: 350px;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+
+}
